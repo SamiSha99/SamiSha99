@@ -10,9 +10,5 @@ CS degree, Full-Stack and Game Designer :)
 - **CPR-VR** — VR training sim on Quest with RTL localization (Unity/C#).
 - **Playfrens** - Game library management to find, plan, and play together with your friends.
 
-#### Tech
-`C#` * `Unity` * `Unreal (engine-level)`
-Supporting: `TypeScript` * `React` * `Node`
-
 #### Find me
 [Portfolio](https://sami.shakkour.dev) · [LinkedIn](https://www.linkedin.com/in/sami-shakkour/)
