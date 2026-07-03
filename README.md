@@ -5,9 +5,8 @@ CS degree, Full-Stack and Game Designer :)
 ---
 
 #### Featured work
-- **Online Communication Mod** — networked action-based comms over the Steam
-  Networking API, shipped on Steam Workshop.
-- **CPR-VR** — VR training sim on Quest with RTL localization (Unity/C#).
+- **Online Communication Mod** - Automated action-based communication system.
+- **CPR-VR** - VR training sim on Quest with RTL localization solution (Unity/C#).
 - **Playfrens** - Game library management to find, plan, and play together with your friends.
 
 #### Find me
