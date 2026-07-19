@@ -1,6 +1,8 @@
 ### Hi, I'm Sami 👋
 
-CS degree, Full-Stack and Game Designer :)
+Computer Scientist, Full-Stack and Game Designer :)
+
+[Portfolio](https://sami.shakkour.dev) - [LinkedIn](https://www.linkedin.com/in/sami-shakkour/)
 
 ---
 
@@ -8,6 +10,3 @@ CS degree, Full-Stack and Game Designer :)
 - **Online Communication Mod** - Automated action-based communication system.
 - **CPR-VR** - VR training sim on Quest with RTL localization solution (Unity/C#).
 - **Playfrens** - Game library management to find, plan, and play together with your friends.
-
-#### Find me
-[Portfolio](https://sami.shakkour.dev) · [LinkedIn](https://www.linkedin.com/in/sami-shakkour/)
