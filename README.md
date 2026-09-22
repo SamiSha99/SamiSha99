@@ -2,7 +2,7 @@
 
 Computer Scientist, Full-Stack and Game Designer :)
 
-[Portfolio](https://sami.shakkour.dev) - [LinkedIn](https://www.linkedin.com/in/sami-shakkour/)
+See my [portfolio](https://sami.shakkour.dev) for cool stuff I made.
 
 ---
 
